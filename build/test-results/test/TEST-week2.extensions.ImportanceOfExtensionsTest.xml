@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="week2.extensions.ImportanceOfExtensionsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-05T03:18:50" hostname="black-apple.local" time="0.02">
+  <properties/>
+  <testcase name="test()" classname="week2.extensions.ImportanceOfExtensionsTest" time="0.02"/>
+  <system-out><![CDATA[1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

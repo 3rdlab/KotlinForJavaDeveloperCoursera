@@ -9,8 +9,6 @@ class ExampleFromTheStandardLibrary {
     fun main(){
         println(set.javaClass) // analogous to Java's set.getClass()
 
-
-
         //extension function
         // (abc)
         println(listOf('a', 'b').joinToString(separator = "", prefix = "(", postfix = ")"))
