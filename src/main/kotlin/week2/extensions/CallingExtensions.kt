@@ -14,7 +14,7 @@ class CallingExtensions {
         val parent: Parent = Child()
         println(parent.foo()) // "parent"
 
-        // Extensions are static java functions under the hood
+        // Extensions are static java functions
         // No override for extension function in Kotlin
     }
 

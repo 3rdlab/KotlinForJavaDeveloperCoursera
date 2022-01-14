@@ -3,8 +3,8 @@ package week2.extensions
 class ExtensionFunctions {
 
     // String : receiver. "this" can omit
-    private fun String.lastChar() = this.get(this.length - 1)
-    private fun String.anotherLastChar() = get(length - 1)
+    fun String.lastChar() = this.get(this.length - 1)
+    fun String.anotherLastChar() = get(length - 1)
 
     val c: Char = "abc".lastChar()
 
