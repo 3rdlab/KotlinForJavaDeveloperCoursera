@@ -33,6 +33,7 @@ class Rectangle(val height: Int, val width: Int){
 }
 
 
+
 /*
     Different syntax for inheritance
  */

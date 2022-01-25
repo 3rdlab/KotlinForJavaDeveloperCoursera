@@ -33,12 +33,7 @@ class AA {
     }
 }
 /*
-    Class delegation
-
-    class Controller(
-        repository: Repository,
-        logger: Logger
-    ) : Repository by repository, Logger by logger
+    Class Delegation
  */
 class Customer
 
