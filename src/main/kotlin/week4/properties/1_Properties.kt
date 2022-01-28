@@ -35,12 +35,9 @@ class Rectangle(val height: Int, val width: Int){
             println("foo2")
             return 42
         }
-
 }
 
-
 fun main(){
-
     val rectangle = Rectangle(5, 5)
 
     // property only call once

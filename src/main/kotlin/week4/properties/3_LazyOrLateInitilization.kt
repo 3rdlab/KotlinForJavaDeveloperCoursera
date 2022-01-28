@@ -33,8 +33,6 @@ fun main(){
         }
 
     }
-
-
  */
 
 class `3_LazyOrLateInitilization` {
